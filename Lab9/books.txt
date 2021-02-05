@@ -1,0 +1,8 @@
+11 2000 3.5 Shaken
+12 2017 3.0 The Little Chairs
+23 2002 4.0 Count to Ten
+15 2005 3.0 How
+05 1999 4.29 Gone with the Wind
+08 2006 4.37 The Book Thief
+09 2008 4.33 The Hunger Games
+02 2006 4.27 To Kill a Mockingbird
